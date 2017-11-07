@@ -1,2 +1,2 @@
 # Fancier
-## This is Fancys
+## I have no idea what I'm doing :)
